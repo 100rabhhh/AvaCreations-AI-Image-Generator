@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AvaCreations - AI Image Generator</title>
 </head>
 <body>
     <h1>🌟 AvaCreations: AI Image Generator</h1>
