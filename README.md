@@ -55,7 +55,7 @@ cd avacreations</code></pre>
         <li>The generated image is saved as <code>generatedimage.png</code> and displayed in the GUI.</li>
     </ol>
     <h2>📸 Screenshot</h2>
-    <p><a href="https://drive.google.com/uc?export=view&id=YOUR_GOOGLE_DRIVE_IMAGE_ID" target="_blank">Click here to view the app screenshot</a></p>
+<img src="https://drive.google.com/uc?export=view&id=1A2B3C4D5EFG" alt="AvaCreations App Screenshot" width="600">
     <h2>👥 Credits</h2>
     <p>Built by <a href="https://github.com/your-username">Sourabh Jha</a></p>
     <h2>📄 License</h2>
