@@ -60,7 +60,7 @@ cd avacreations</code></pre>
 <h2>📸 Screenshot 2</h2>
 <img src="https://drive.google.com/uc?export=view&id=1dpIhT1xIDAy8rSYzOgXgu5I0uOOEOzr7" alt="AvaCreations App Screenshot 2" width="600">
     <h2>👥 Credits</h2>
-    <p>Built by <a href="https://github.com/your-username">100rabhhh</a></p>
+    <p>Built by <a href="https://github.com/100rabhhh">Sourabh Jha</a></p>
     <h2>📄 License</h2>
     <p>This project is licensed under the MIT License.</p>
 
