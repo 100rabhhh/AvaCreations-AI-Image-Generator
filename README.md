@@ -54,8 +54,11 @@ cd avacreations</code></pre>
         <li>When the "Generate" button is pressed, the <strong>Stable Diffusion</strong> model processes the input and generates an image.</li>
         <li>The generated image is saved as <code>generatedimage.png</code> and displayed in the GUI.</li>
     </ol>
-    <h2>📸 Screenshot</h2>
-<img src="https://drive.google.com/uc?export=view&id=11m3QxKQMPVs7hASs2RLAUWwo2jZgpJhV" alt="AvaCreations App Screenshot" width="600">
+   <h2>📸 Screenshot 1</h2>
+<img src="https://drive.google.com/uc?export=view&id=11m3QxKQMPVs7hASs2RLAUWwo2jZgpJhV" alt="AvaCreations App Screenshot 1" width="600">
+
+<h2>📸 Screenshot 2</h2>
+<img src="https://drive.google.com/uc?export=view&id=1dpIhT1xIDAy8rSYzOgXgu5I0uOOEOzr7" alt="AvaCreations App Screenshot 2" width="600">
     <h2>👥 Credits</h2>
     <p>Built by <a href="https://github.com/your-username">Sourabh Jha</a></p>
     <h2>📄 License</h2>
