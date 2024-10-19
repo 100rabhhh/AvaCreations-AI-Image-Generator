@@ -27,7 +27,7 @@
         <pre><code>pip install torch diffusers transformers pillow customtkinter</code></pre>
     </ul>
     <h3>Clone the Repository</h3>
-    <pre><code>git clone https://github.com/your-username/avacreations.git
+    <pre><code>git clone https://github.com/100rabhhh/avacreations.git
 cd avacreations</code></pre>
     <h3>Add Authentication Token</h3>
     <p>To run the Stable Diffusion model, you need an <strong>authentication token</strong> from Hugging Face. Add your token in the <code>authtoken.py</code> file like so:</p>
